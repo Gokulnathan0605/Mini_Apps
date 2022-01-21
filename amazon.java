@@ -537,7 +537,7 @@ class buyer{
         }while(kpr);
     }
 }
-public class amazonhome {
+class amazonhome {
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args){
         
